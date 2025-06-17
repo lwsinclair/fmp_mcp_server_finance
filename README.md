@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/shadi-fsai-fmp-mcp-server-finance-badge.png)](https://mseep.ai/app/shadi-fsai-fmp-mcp-server-finance)
+
 # Financial Modeling Prep (FMP) MCP Server
 
 A Model Context Protocol (MCP) server that provides access to Financial Modeling Prep (FMP) API data through a standardized interface. This server allows AI assistants like Claude to access financial data programmatically.
